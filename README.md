@@ -1,6 +1,7 @@
 # shopping-trends-analysis
 Project on EDA - Shopping Trends Analysis-checkpoint.ipynb
 
+![image](https://github.com/user-attachments/assets/bc705575-38aa-4a9e-be9a-31468eee3062)
 
  
 ![image](https://github.com/user-attachments/assets/229bd891-5e5d-46c3-b241-8ff46fd44bdf)
